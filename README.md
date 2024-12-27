@@ -4,6 +4,14 @@ A Netflix-inspired web application built with ReactJS, Axios, and TMDb API, show
 
 ---
 
+## Live Demo
+
+To view the live version of this project, simply click on the link below:
+
+[View the Netflix Clone](https://netflix-clone-mocha-psi.vercel.app/)
+
+---
+
 ## Features
 - Displays rows of movies fetched dynamically from the TMDb API.
 - Interactive banner with background images and movie descriptions.
